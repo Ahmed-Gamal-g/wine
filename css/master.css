@@ -1,0 +1,573 @@
+nav {
+    padding-left: 50px;
+    background: linear-gradient(to left , rgba(83, 0, 0, 0.233) , black);    
+    
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: red;
+    padding: 10px;
+}
+
+
+.navbar-dark .navbar-brand {
+    color: wheat;
+    font-weight: bold;
+}
+
+
+.navbar-dark .navbar-brand:hover {
+    color: red;
+}
+
+
+.home {
+    text-align: center;
+    padding-top: 200px;
+    background-image: url(../images/best-wine-luxe-digital@2x.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: brown;
+    font-size: 20px;
+    height: 800px;
+}
+
+
+
+
+/* section (1) */
+
+.h11 {
+    padding-bottom: 30px;
+    color: wheat;
+
+}
+
+.pp {
+    padding-bottom: 30px;
+}
+
+.p2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.b1 {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.26);
+    color: white;
+    border: 1px solid wheat;
+}
+
+
+.b1:hover {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.26);
+    color: black;
+    font-weight: bold;
+}
+
+
+.b2 {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.26);
+    color: white;
+    border: 1px solid wheat;
+}
+
+.b2:hover {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.26);
+    color: black;
+    font-weight: bold;
+}
+
+.img {
+    margin-top: 50px;
+}
+
+#logo {
+    font-size: 50px;
+    color: red;
+    margin-top: 50px;
+    border-radius: 20px;
+    cursor: pointer ;
+  
+}
+
+
+#logo:hover {
+    font-size: 70px;
+    color: black;
+    margin-top: 50px;
+    border-radius: 20px;
+  
+}
+
+.h1 {
+    margin-bottom: -20px;
+}
+
+.b3 {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid red;
+    
+}
+
+
+.b3:hover {
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid red;
+    background-color: red;
+    
+    
+    
+}
+
+.cont {
+    text-align: center;
+}
+
+@media (max-width:720px) {
+
+    #img1 {
+        width: 320px;
+        height: 300px;
+    }
+
+}
+
+/* end section (1) */
+
+.cont2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.wine {
+    margin-top: 100px;
+    color: red;
+}
+
+.ppp {
+    color: rgba(255, 0, 0, 0.726);
+}
+
+.img2 {
+    margin-left: 30px;
+}
+
+#logo2 {
+    font-size: 30px;
+    color: rgba(255, 0, 0, 0.637);
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0);
+    width: 1px;
+    transition: all 1s;
+
+}
+
+
+#logo2:hover {
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 30px;
+    color: rgb(87, 19, 19);
+    border-radius: 20px;
+    width: 30px;
+    margin-bottom: 15px;
+    /* transform: scale(1.2 , 1.2); */
+
+}
+
+.video {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
+
+.disp {
+    display: none;
+}
+
+.me {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.click-me {
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: black;
+    color: brown;
+    border: 1px solid white;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.185);
+}
+
+.click-me:hover {
+    background-color: red;
+    color: white;
+}
+
+iframe {
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+@media(max-width:720px){
+
+    iframe {
+        width: 350px;
+    }
+
+}
+
+.bgcolor {
+    text-align: center;
+    background-image: url(../images/1519799288975.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 400px;
+}
+
+.p333 {
+    padding-top: 150px;
+    font-weight: bold;
+    color: red;
+}
+
+.h111 {
+    color: red;
+}
+
+
+
+.cont3 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+
+.more {
+    display: none;
+}
+
+
+.moree {
+    display: none;
+}
+
+
+.moreee {
+    display: none;
+}
+
+
+.moreeee {
+    display: none;
+}
+
+
+.moreeeee {
+    display: none;
+}
+
+
+.moreeeeee {
+    display: none;
+}
+
+
+
+#read-more {
+    color: brown;
+    text-decoration: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+#read-more:hover {
+    color: red;
+    margin-left: 10px;
+
+
+}
+
+
+#read-moree {
+    color: brown;
+    text-decoration: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+#read-moree:hover {
+    color: red;
+    margin-left: 10px;
+
+}
+
+
+
+#read-moreee {
+    color: brown;
+    text-decoration: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+#read-moreee:hover {
+    color: red;
+    margin-left: 10px;
+
+}
+
+
+#read-moreeee {
+    color: brown;
+    text-decoration: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+#read-moreeee:hover {
+    color: red;
+    margin-left: 10px;
+
+}
+
+
+#read-moreeeee {
+    color: brown;
+    text-decoration: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+#read-moreeeee:hover {
+    color: red;
+    margin-left: 10px;
+
+}
+
+
+#read-moreeeeee {
+    color: brown;
+    text-decoration: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+#read-moreeeeee:hover {
+    color: red;
+    margin-left: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+
+
+
+.h12 {
+    color: rgb(165, 108, 42);
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+h6 {
+    color: rgba(255, 0, 0, 0.521);
+}
+
+#m {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+
+
+/* end section (2) */
+
+
+.cont4 {
+    text-align: center;
+    background:linear-gradient( black , red);
+    background-attachment: fixed;
+    height: 300px;
+}
+
+h2 {
+    padding-top: 100px;
+    color: white;
+    
+}
+
+h5 {
+    padding-top: 20px;
+    color: wheat;
+}
+
+.button4 {
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid wheat;
+    background-color: black;
+    color: red;
+}
+
+.button4:hover {
+    padding: 15px ;
+    color: white;
+} 
+
+.cont5 {
+    margin-top: 50px;
+    display: none;
+}
+
+.cap {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.u {
+    color: red;
+    font-weight: bold;
+}
+
+/* end section (3) */
+
+.up {
+    background-color: black;
+}
+
+.foot {
+    color: rgb(0, 153, 255);
+    text-decoration: none;
+}
+
+.foot:hover {
+    color: red;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+i {
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+.fo {
+    color: wheat;
+    margin-top: 10px;
+}
+
+.fot {
+    color: rgba(245, 222, 179, 0.438);
+}
+
+.h2 {
+    color: rgba(255, 0, 0, 0.555);
+    padding-bottom: 20px;
+}
+
+.khat {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 0, 0, 0.212);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+
+#log {
+    margin-left: 800px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 35px;
+    color: wheat;
+}
+
+#log:hover {
+    color: red;
+    font-size: 40px;
+    
+}
+
+
+#logs {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 35px;
+    color: wheat;
+}
+
+
+#logs:hover {
+    color: red;
+    font-size: 40px;
+
+}
+
+
+@media(max-width:720px) {
+
+    #log {
+        margin-left: 130px;
+        margin-top: 10px;
+    }
+
+    #logs {
+        margin-top: 10px;
+    }
+
+}
+
+.logo3 {
+    text-align: center;
+}
+
+@media(max-width:720px) {
+
+    .imag2 {
+        width: 100%;
+    }
+
+}
